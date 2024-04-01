@@ -1,1 +1,1 @@
-Tugas Algoritma dan Struktur Data 2
+Studi kasus yang saya pilih yaitu peminjaman buku perpustakaan dalam kampus. Dengan memanfaatkan pemrograman python, memunculkan beberapa ide yang saya dapatkan salah satunya yaitu peminjaman buku dengan sistem penginputan data setiap mahasiswa dan penempatan 
