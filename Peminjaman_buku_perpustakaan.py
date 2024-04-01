@@ -15,6 +15,6 @@ if judul_buku and pengarang and tahun_terbit in buku:
     print([f"Judul : " + buku[0]])
     print([f"Pengarang : " + buku[1]])
     print([f"Tahun terbit : " + buku[2]])
-    print("Silahkan kembalikan dalam 14 Hari")
+    print("Silahkan kembalikan buku dalam 14 Hari")
 else:
     print("Anda salah memasukkan data")
